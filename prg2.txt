@@ -21,3 +21,6 @@ edited by programmer A
 
 edit by programmer A in instruction 5
 >>>>>>> BRANCH2:prg2.txt
+
+
+Edit by programmer A in instruction 6.
