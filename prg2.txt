@@ -8,7 +8,16 @@ Hello World-2
 2nd time edit
 
 
+<<<<<<< HEAD:PRG2.txt
+edited by programmer A
+
+edit start by programmer B
+
+hello world 
+How are you 
+=======
 edited by programmer A 
 
 
 edit by programmer A in instruction 5
+>>>>>>> BRANCH2:prg2.txt
